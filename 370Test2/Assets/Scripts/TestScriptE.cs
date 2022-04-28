@@ -9,6 +9,7 @@ public class TestScriptE : MonoBehaviour
     {
         //I added This too
             //Ec
+            //yo
     }
 
     // Update is called once per frame
